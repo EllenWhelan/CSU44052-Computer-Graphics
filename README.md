@@ -1,2 +1,2 @@
 # CSU44052-Computer-Graphics
-Test
+This folder contains the incremental labs completed as part of the CSU44052 Computer Graphics module in Trinity College Dublin. Each branch contains each weeks lab in a separate main.cpp file. The main project for this module is based off the work covered in these labs and can be found here.s
