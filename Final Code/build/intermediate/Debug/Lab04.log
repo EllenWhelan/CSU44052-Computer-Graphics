@@ -1,0 +1,42 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\\build\intermediate\Debug\) contains files shared from another project (Lab 04.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\Mesh.h(25,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\Shader.h(51,40): warning C4101: 'e': unreferenced local variable
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\Camera.h(96,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(86,24): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(236,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(237,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(238,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(239,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(247,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(248,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(255,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(256,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(263,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(264,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(271,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(272,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(279,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(280,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(287,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(288,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(295,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(296,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(303,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(304,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(311,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(312,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(346,23): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(349,25): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(370,15): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(375,25): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(377,23): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(378,24): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(519,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(522,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(525,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(528,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(578,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\Lab04\main.cpp(579,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Lab04.vcxproj -> C:\Users\ellen\OneDrive\Documents\College\Computer Graphics\Project\MidTerm Project\build\executables\Debug\MT_Proj.exe

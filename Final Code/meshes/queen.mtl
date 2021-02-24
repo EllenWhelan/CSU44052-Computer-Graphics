@@ -1,0 +1,13 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl WoodenChessQueenSideB.001
+Ns 35.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.540000 0.540000 0.540000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\ellen\\Downloads\\WoodenChessQueenSideA_v1_L3.123ccda1ae3f-210f-40c9-87da-03bc22a3ee0b\\WoodenChessQueenSideA_v1_L3.123ccda1ae3f-210f-40c9-87da-03bc22a3ee0b\\12927_WoodenChessQueenSideA_diffuse.jpg
